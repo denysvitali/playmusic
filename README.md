@@ -1,7 +1,7 @@
 Node-JS Google Play Music API
 ====
 
-Written by Jamon Terrell <git@jamonterrell.com>
+Written by Jamon Terrell <git@jamonterrell.com> , contributed by Denys Vitali <denys@denv.it>
 
 This project is not endorsed by of affiliated with Google in any way.
 
