@@ -56,6 +56,19 @@ Retrieve Playlists
     });
 ```
 
+Retrieve Album tracks by album id
+```
+    pm.getAlbumEntries("Bucz72tcawpsarj7fmyumxvrmly", function(data)
+    {
+        //Do something with the result
+        console.log(data);
+    }, function(error)
+    {
+        console.log(error);
+    });
+
+```
+
 Retrieve the Stream URL for a song by id
 ```
     pm.getStreamUrl("Thvfmp2be3c7kbp6ny4arxckz54", console.log);
